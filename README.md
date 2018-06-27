@@ -2,15 +2,8 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+## Description
 
-## Instructions
+A JavaScript mini project that lets a user create a grid of squares representing their design, and apply colors to those squares to create a digital masterpiece.
 
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+To use the App please see the [project page](https://emekaokoli.github.io/).
